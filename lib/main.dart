@@ -28,7 +28,7 @@ class PantallaPrincipal extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Primer ejercicio'),
+        title: const Text('Primer ejercicio y PRIMER COMMIT'),
       ),
       body: const Center(
         child: Text('Hola Mundo'),
